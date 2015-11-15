@@ -2,4 +2,4 @@
 
 #### A demo web application in Java (Servlets, JSPs, JDBC), MySQL & AngularJS.
 
-* Testng
+* In this appliaction, valid user can easily manage his/her contacts.
