@@ -1,0 +1,33 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 16, 2015, 9:32:52 AM
+    Author     : laiqueali
+*/
+.auth-form-div {
+	width: 300px;
+	border: 1px solid lightgray;
+	margin: 10px auto;
+	padding: 5px 10px 10px;
+	border-radius: 20px;
+}
+
+.lbl {
+	margin: 10px 0px 0px 1px;
+}
+
+.auth-user {
+	font-weight: bold;
+	margin: 0px 33px 0px 5px;
+}
+
+.cp {
+	text-align: center;
+}
+
+.nav-li:HOVER {
+	background-color: #e7e7e7;
+}
